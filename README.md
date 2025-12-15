@@ -107,6 +107,8 @@ Below is a sample view of the Excel control panel used to trigger and monitor th
 
 ![Excel Control Panel](images/image.png)
 
+![Excel Control Panel](images/second_image.png)
+
 > ⚠️ The actual working Excel file is not included for security reasons.  
 > This image represents a sanitized sample layout showing buttons and controls.
 
