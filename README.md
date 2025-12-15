@@ -11,15 +11,15 @@ Users interact only with Excel buttons and dropdowns — no command-line usage i
 
 ## 🧠 Architecture & Flow
 
-Excel (VBA UI & Controls)
+- Excel (VBA UI & Controls)
 ↓
-Batch Files (.bat)
+- Batch Files (.bat)
+- ↓
+- Python Scripts
 ↓
-Python Scripts
+- Outlook / PDF / File System
 ↓
-Outlook / PDF / File System
-↓
-Results & Status back to Excel
+- Results & Status back to Excel
 
 ---
 
